@@ -1,0 +1,6 @@
+{
+  "name": "抖析悬浮球 (Douyin FloatParse)",
+  "description": "轻量级手机端抖音视频无水印解析工具，支持全局悬浮球模式、剪贴板抖音口令自动识别激活与全链路解析日志记录。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
